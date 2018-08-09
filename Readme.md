@@ -1,5 +1,10 @@
-* DataFlowy UI animation
+## DataFlowy UI animation
 
-Made in Unity
-dependencies : Unirx, Unity-UIGradient
+
+dependencies : [Unirx](https://github.com/neuecc/UniRx), [Unity-UIGradient](https://github.com/azixMcAze/Unity-UIGradient)
+
 Unity version : 2018.1.41f
+
+![](Capture.PNG)
+
+[Video](https://youtu.be/bwlh2MO1zZc)
